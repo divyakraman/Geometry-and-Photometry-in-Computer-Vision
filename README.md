@@ -1,7 +1,7 @@
-Geometry and Photometry in Computer Vision
+Geometry and Photometry in Computer Vision \\
 This repository contains codes and reports for the course 'Geometry and Photometry in Computer Vision (Jan - May 2018)'. 
 
-Assignment 1 - Image Rectification
+Assignment 1 - Image Rectification \\
 Q1. Computation of transformation matrix directly using 4 points and their transformed corrected coordinates.
 Q2. Image rectification upto similarity by first computing the line at infinity and then computing the dual conic.
 Q3. Image rectification upto similarity in a single step using 4-5 perpendiculat directions.
